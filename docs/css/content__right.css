@@ -210,7 +210,7 @@ padding: 10px;
     padding: 20px;
     height: 100%;
     width: 200px;
-    background-image: url(../img/bg.png);
+    background-image: url("../img/bg.png");
     background-repeat: repeat-x;
     background-size: auto 100%;
 }
@@ -425,7 +425,7 @@ text-align: center;
 
 .img1 {
   display: flex;
-  background-image: url('/img/crew1.png');
+  background-image: url('../img/crew1.png');
   width: 160px;
 height: 160px;
 border-radius: 50%;
@@ -449,7 +449,7 @@ border-radius: 50%;
 
 .img2 {
   display: flex;
-  background-image: url('/img/crew2.png');
+  background-image: url('../img/crew2.png');
   width: 160px;
 height: 160px;
 border-radius: 50%;
@@ -458,7 +458,7 @@ border: 3px solid #4b73b5;
 }
 .img3 {
   display: flex;
-  background-image: url('/img/crew3.png');
+  background-image: url('../img/crew3.png');
   width: 160px;
 height: 160px;
 border-radius: 50%;
@@ -467,7 +467,7 @@ border: 3px solid #4b73b5;
 }
 .img4 {
   display: flex;
-  background-image: url('/img/crew4.png');
+  background-image: url('../img/crew4.png');
   width: 160px;
 height: 160px;
 border-radius: 50%;
@@ -476,7 +476,7 @@ border: 3px solid #4b73b5;
 }
 .img5 {
   display: flex;
-  background-image: url('/img/crew5.png');
+  background-image: url('../img/crew5.png');
   width: 160px;
 height: 160px;
 border-radius: 50%;
@@ -485,7 +485,7 @@ border: 3px solid #4b73b5;
 }
 .img6 {
   display: flex;
-  background-image: url('/img/crew6.png');
+  background-image: url('../img/crew6.png');
   width: 160px;
 height: 160px;
 border-radius: 50%;

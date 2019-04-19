@@ -1,5 +1,5 @@
-@import url('/css/base.css');
-@import url('/css/fonts.css');
+@import url('base.css');
+@import url('fonts.css');
 
 .wrapper--mod{ 
     display: flex;
@@ -7,7 +7,7 @@
     align-items: center;
     position: relative;
     padding-bottom: 0;
-    background-image: url('/img/img_intro.png');
+    background-image: url('../img/img_intro.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
