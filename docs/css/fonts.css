@@ -1,0 +1,51 @@
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('/fonts/Roboto-Bold.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+ }
+ h1,h3,.tarif__blocks-price, 
+ .content__left-nav li a,
+ .crew .title, .bth_intro,
+   .link_crew  .part_title,
+    .contacts, .link_crew a,
+    .crew_div h2, .tarif__blocks h1, .tarif__blocks h4{
+   font-family: 'Roboto';
+   font-weight: normal;
+   font-style: normal;
+ 
+ }
+ @font-face {
+   font-family: 'Roboto';
+   src: url('/fonts/Roboto-Light.woff') format('woff');
+   font-weight: 300;
+   font-style: normal;
+ }
+ p, li, small, .text_page, .crew_div p , .contacts a,.social__text, .form, input, textarea,.list_menu{
+   font-family: 'Roboto';
+   font-weight: 300;
+   font-style: normal;
+ }
+@font-face {
+   font-family: 'Roboto';
+   src: url('/fonts/Roboto-LightItalic.woff') format('woff');
+   font-weight: 300;
+   font-style: italic;
+ }
+ .bc li {
+   font-family: 'Roboto';
+
+   font-weight: 300;
+   font-style: italic;
+ }
+ 
+
+
+
+ .list_menu--color {
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-size: 14px;
+}
+ 
